@@ -35,10 +35,7 @@ A passionate Information Systems student at Saigon University. I love building w
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-two.vercel.app/api?username=Hutramikha&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=Hutramikha&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hutramikha&theme=tokyonight)
 
 ---
 
@@ -48,5 +45,5 @@ A passionate Information Systems student at Saigon University. I love building w
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Huỳnh Khang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hu%E1%BB%B3nh-khang-b2bba7434/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htminhkhang.it@gmail.com)
