@@ -3,9 +3,9 @@
 
 A passionate Information Systems student at Saigon University. I love building web applications, optimizing system performance, and learning new technologies.
 
-- 🔭 I’m currently working on: **E-commerce & Web Optimization Projects**
-- 🌱 I’m currently learning: **System Architecture, Redis Caching, Microservices**
-- 💬 Ask me about: **JavaScript, PHP, SQL, Data Analysis**
+- 🔭 I’m currently working on: ****
+- 🌱 I’m currently learning: ****
+- 💬 Ask me about: **Java, JavaScript, PHP, SQL/MySQL, Data Analysis, Business Analysis**
 - 📫 How to reach me: **htminhkhang.it@gmail.com**
 - ⚡ Fun fact: **Avid gamer & open-source enthusiast**
 
@@ -40,7 +40,7 @@ A passionate Information Systems student at Saigon University. I love building w
 ---
 
 ### 🤝 Open Source & Contributions
-- Contributed to **[Tên Repo/Dự án]**: [Pull Request #123](thay_link_PR_cua_ban_vao_day) — *Briefly describe what you fixed or built.*
+
 
 ---
 
