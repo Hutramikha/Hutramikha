@@ -36,8 +36,8 @@ A passionate Information Systems student at Saigon University. I love building w
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TÊN_USERNAME_CỦA_BẠN&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TÊN_USERNAME_CỦA_BẠN&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hutramikha&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutramikha&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
