@@ -34,7 +34,7 @@ A passionate Information Systems student at Saigon University. I love building w
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hutramikha&theme=tokyonight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hutramikha&theme=tokyonight&user__timezone=Asia/Ho_Chi_Minh)
 
 ---
 
