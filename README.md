@@ -6,7 +6,7 @@ A passionate Information Systems student at Saigon University. I love building w
 - 🔭 I’m currently working on: ****
 - 🌱 I’m currently learning: ****
 - 💬 Ask me about: **Java, JavaScript, PHP, SQL/MySQL, Data Analysis, Business Analysis**
-- 📫 How to reach me: **minhkhang28042004@gmail.com**
+- 📫 How to reach me: **htminhkhang.it@gmail.com**
 - ⚡ Fun fact: **Avid gamer & open-source enthusiast**
 
 ---
@@ -45,4 +45,4 @@ A passionate Information Systems student at Saigon University. I love building w
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hu%E1%BB%B3nh-khang-b2bba7434/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhkhang28042004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htminhkhang.it@gmail.com)
