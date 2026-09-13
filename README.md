@@ -1,4 +1,4 @@
-# Hi there, I'm Huỳnh Trần Minh Khang 👋 
+# Hi there, I'm Huỳnh Trần Minh Khang
 ### 🎓 Information Systems Student | Aspiring Software Engineer / IT BA
 
 A passionate Information Systems student at Saigon University. I love building web applications, optimizing system performance, and learning new technologies.
