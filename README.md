@@ -106,7 +106,7 @@ I am especially interested in:
 ---
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hutramikha&theme=tokyonight&user__timezone=Asia/Ho_Chi_Minh&v=1)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hutramikha&theme=tokyonight&user__timezone=Asia/Ho_Chi_Minh&v=4)
 
 ---
 
