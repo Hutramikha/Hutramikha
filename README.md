@@ -1,4 +1,4 @@
-# Hi, I'm Huỳnh Trần Minh Khang
+# I'm Huỳnh Trần Minh Khang
 
 ### Information Systems Student | Aspiring IT Business Analyst
 
