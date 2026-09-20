@@ -1,8 +1,8 @@
 # I'm Huỳnh Trần Minh Khang
 
-### Information Systems Student | Aspiring IT Business Analyst
+### IT Student | Aspiring IT Business Analyst
 
-I am an Information Systems student at Saigon University with a strong interest in **business analysis, software requirements, and system design**.
+I am an Information Technology student majoring in Information Systems at Saigon University, with a strong interest in **business analysis, software requirements, and system design**.
 
 I enjoy understanding how a business operates, turning real-world problems into clear requirements, and working with developers to build practical software solutions. I also have hands-on experience developing web applications, which helps me communicate effectively across both business and technical contexts.
 
@@ -74,7 +74,7 @@ My main contributions included:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -85,7 +85,6 @@ My main contributions included:
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F56C2D?style=for-the-badge&logo=lucid&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Analysis & Documentation
 
